@@ -1,0 +1,52 @@
+{
+    "species_categories": {
+        "clan_founder_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "clan_guide_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "clanborn_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "outsider_roots_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "half_clan_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "loner_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "rogue_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "kittypet_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "former_clancat_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "healer_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "orphaned_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "abandoned_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "outsider_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "baby_clancat_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "baby_loner_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ],
+        "baby_kittypet_species": [
+            "cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat"
+        ]
+    }
+}
