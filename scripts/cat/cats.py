@@ -300,7 +300,9 @@ class Cat:
             self.backstory = self.backstory  # fixme why does this exist
 
         if self.species is None:
-            self.species = choice(["cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat", "harpy"])
+            self.species = "cat"
+        else:
+            self.species = choice(["halfling", "elf", "orc", "angel", "slime", "centaur", "mercat", "harpy"])
 
         # sex!?!??!?!?!??!?!?!?!??
         if self.gender is None:
