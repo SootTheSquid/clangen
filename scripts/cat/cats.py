@@ -299,6 +299,9 @@ class Cat:
         else:
             self.backstory = self.backstory  # fixme why does this exist
 
+        if self.species is None:
+            self.species = choice(["cat", "halfling", "elf", "orc", "angel", "slime", "centaur", "mercat", "harpy"])
+
         # sex!?!??!?!?!??!?!?!?!??
         if self.gender is None:
             self.gender = "female" if disable_random else choice(["female", "male"])
