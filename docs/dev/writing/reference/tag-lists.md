@@ -199,6 +199,19 @@ You can use either the backstory pool name, or an individual backstory name.  Wh
 | `abandoned_backstories`      | `abandoned1`, `abandoned2`, `abandoned3`, `abandoned4`                                                                                                                                             |
 | `outsider_backstories`       | `outsider1`, `outsider2`, `outsider3`                                                                                                                                                              |
 
+## Species
+
+=== "Species"
+
+    > * `cat`
+    * `halfling`
+    * `elf`
+    * `orc`
+    * `angel`
+    * `slime`
+    * `centaur`
+    * `mercat`
+
 ## Age and Status
 
 === "Ages"
