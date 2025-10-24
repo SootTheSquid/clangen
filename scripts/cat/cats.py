@@ -121,6 +121,7 @@ class Cat:
         gender=None,
         status_dict: StatusDict = None,
         backstory="clanborn",
+        species=None,
         parent1=None,
         parent2=None,
         adoptive_parents=None,
@@ -177,6 +178,7 @@ class Cat:
         self.gender = gender
         self.status: Status = Status(**status_dict) if status_dict else Status()
         self.backstory = backstory
+        self.species = species
         self.age: Optional[CatAge] = None
         self.skills = CatSkills(skill_dict=skill_dict)
         self.personality = Personality(
